@@ -9,4 +9,7 @@ public static void main(String[] args) {
 public static void printSometing(String[] args) {
 	System.out.println("this is print project");
 }
+public static void doSometing(String[] args) {
+	System.out.println("this is print project");
+}
 }
